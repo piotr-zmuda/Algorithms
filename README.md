@@ -1,7 +1,7 @@
 # Algorithms
 
 
-#SumOfTwoStringsEqualThird
+#SumOfTwoStringsEqualThird <br>
 Basically the algorithm allow us to check if the third typed word can be made from the first and second typed words even if the word is mixed.
 For example:
 first word:"asd";
