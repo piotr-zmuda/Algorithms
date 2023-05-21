@@ -15,8 +15,8 @@ then it will return false.<br>
 <h1>ReverseCalculator</h1><br>
 
 The idea behind this algorithm is searching for 2 numbers and if we will multiply them they will equal searched number.<br>
-For example if we want to know what for example what are 2 numbers we will multiply by each other will get us the number 77.<br>
-The answer is for example 7*11 or 77*1.<br>
+For example if we want to know what are 2 numbers that equal 77 by multiplying them.<br>
+The answer is 7*11 or 77*1.<br>
 But if someone doesn't know how to multiply this algorithm solve this issue.<br>
 it uses for example euclid's algorithm<br>
 
