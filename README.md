@@ -18,6 +18,5 @@ The idea behind this algorithm is searching for 2 numbers and if we will multipl
 For example if we want to know what are 2 numbers that equal 77 by multiplying them.<br>
 The answer is 7*11 or 77*1.<br>
 But if someone doesn't know how to multiply this algorithm solve this issue.<br>
-it uses for example euclid's algorithm<br>
 
 
