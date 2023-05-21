@@ -16,7 +16,6 @@ then it will return false.<br>
 
 The idea behind this algorithm is searching for 2 numbers and if we will multiply them they will equal searched number.<br>
 For example if we want to know what are 2 numbers that equal 77 by multiplying them.<br>
-The answer is 7*11 or 77*1.<br>
-But if someone doesn't know how to multiply this algorithm solve this issue.<br>
+The answer in the algorithm will be 7 * 11 or 77 * 1.<br>
 
 
